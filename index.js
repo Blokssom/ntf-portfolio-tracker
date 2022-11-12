@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // constants
-const apiUrl = 'https://api.blokness.com'
+const apiUrl = 'http://api.blokness.io/'
 const apiKey = '<Your Blokness API key>'
 const wallet = '<Your wallet address>'
 const mintAddress = '0x0000000000000000000000000000000000000000'
